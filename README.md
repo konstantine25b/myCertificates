@@ -22,5 +22,12 @@ This repository contains the certificates of completion and achievements for var
 ### 6. TOEFL Scores
 - **File:** [TOEFL scores.pdf](TOEFL%20scores.pdf)
 
+### 7. Skillwill Certificate of Completion Backend Development
+- **File:** [konstantinebakhutashvili.pdf](https://github.com/user-attachments/files/19403378/konstantinebakhutashvili.pdf)
+
+### 8. TBC IT ACADEMY Certificate of Completion Data Engineering with Python and PySpark
+- **File:** [კონსტანტინე ბახუტაშვილი_Tbc Data.pdf](https://github.com/user-attachments/files/19403381/_Tbc.Data.pdf)
+
+
 ## Contact
 For any inquiries, please contact me at konstantine25b@gmail.com.
