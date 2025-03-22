@@ -7,7 +7,7 @@ This repository contains the certificates of completion and achievements for var
 ### 1. B2.1 Certificate of Completion Blockchain Development
 - **File:** [B2.1_Konstantin Bakhutashvili_Certificate-of-completion_konstantine25b@gmail.com.pdf](B2.1_Konstantin%20Bakhutashvili_Certificate-of-completion_konstantine25b@gmail.com.pdf)
 
-### 2. G04.6 Certificate of Completion
+### 2. G04.6 Certificate of Completion JavaScript and FrontEnd Frameworks
 - **File:** [G04.6_Konstantin Bakhutashvili_Certificate_of_Completion_konstantine25b@gmail.com.pdf](G04.6_Konstantin%20Bakhutashvili_Certificate_of_Completion_konstantine25b@gmail.com.pdf)
 
 ### 3. JavaScript Certificate Report
